@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xl="http://www.w3.org/1999/xlink" viewBox="173 130 405 270" width="405" height="270">
+  <defs>
+    <font-face font-family="Menlo" font-size="30" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000"
+      underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039"
+      ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular" />
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledBall_Marker" stroke-linejoin="miter"
+      stroke-miterlimit="10" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="black">
+      <g>
+        <circle cx="1.3999994" cy="0" r="1.39999876271888" fill="currentColor" stroke="currentColor" stroke-width="1"
+          fill-opacity="0" />
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.1\n2021-01-01 13:27:39 +0000</metadata>
+  <g id="svgstep" stroke-dasharray="none" fill="none" stroke="none" stroke-opacity="1" fill-opacity="1">
+    <title>svgstep</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="174.5" y="194.5" width="111" height="107" fill="white" />
+        <rect x="174.5" y="194.5" width="111" height="107" stroke="black" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="3" />
+        <text transform="translate(179.5 230.5)" fill="black">
+          <tspan font-family="Menlo" font-size="30" font-weight="400" fill="black" x="41.46924" y="28">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <ellipse cx="526.25" cy="181.5" rx="49.7500794956194" ry="50.0000798950948" fill="white" />
+        <ellipse cx="526.25" cy="181.5" rx="49.7500794956194" ry="50.0000798950948" stroke="black"
+          stroke-linecap="round" stroke-linejoin="round" stroke-width="3" />
+        <text transform="translate(491.45 164)" fill="black">
+          <tspan font-family="Menlo" font-size="30" font-weight="400" fill="black" x="16.738476" y="28">12</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="animateappear: 2-3">
+      <title>animateappear: 1-2</title>
+      <g id="Line_5">
+        <path
+          d="M 283.6759 193 C 304.0984 177.75116 330.0515 163.47508 361.02014 156.52347 C 400.2243 147.7232 438.855 152.59402 468.8939 160.28425"
+          marker-end="url(#FilledBall_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="3" />
+      </g>
+    </g>
+    <g id="svgstep: 3+">
+      <title>svgstep: 2+</title>
+      <g id="Graphic_6">
+        <ellipse cx="519.75" cy="345.5" rx="49.7500794956193" ry="50.0000798950948" fill="white" />
+        <ellipse cx="519.75" cy="345.5" rx="49.7500794956193" ry="50.0000798950948" stroke="black"
+          stroke-linecap="round" stroke-linejoin="round" stroke-width="3" />
+        <text transform="translate(484.95 328)" fill="black">
+          <tspan font-family="Menlo" font-size="30" font-weight="400" fill="black" x="25.769238" y="28">0</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="animateappear: 5">
+      <title>animateappear: 3</title>
+      <g id="Line_8">
+        <path
+          d="M 282.0921 303 C 317.48608 337.05563 365.65444 377.01165 409.4668 391.75437 C 439.1478 401.74194 461.7831 398.45975 478.58734 390.1981"
+          marker-end="url(#FilledBall_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="3" />
+      </g>
+    </g>
+  </g>
+</svg>

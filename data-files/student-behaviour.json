@@ -1,0 +1,13 @@
+{
+  "title": "student behaviour",
+  "yLabel": "# of students",
+  "data": {
+    "labels": ["facebook", "paying attention", "falling asleep"],
+    "datasets": [
+      {
+        "data": [70, 4, 42]
+      }
+    ]
+  },
+  "options": {}
+}

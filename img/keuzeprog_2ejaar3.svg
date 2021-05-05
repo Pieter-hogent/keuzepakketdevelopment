@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="168 154 611 433" width="611" height="433">
+  <defs>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-05 14:49:30 +0000</metadata>
+  <g id="svgstep" fill-opacity="1" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill="none">
+    <title>svgstep</title>
+    <g id="svgstep_show_1+">
+      <title>show 1+</title>
+      <g id="Line_2">
+        <line x1="473.25" y1="155" x2="473.28516" y2="586.39844" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(197.35547 169.19922)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">2e jaar - 1e semester</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(548.8555 169.19922)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">2e jaar - 2e semester</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 560.9 339.6992 L 740.1 339.6992 C 761.2968 339.6992 778.5 354.0352 778.5 371.6992 C 778.5 389.3632 761.2968 403.6992 740.1 403.6992 L 560.9 403.6992 C 539.7032 403.6992 522.5 389.3632 522.5 371.6992 C 522.5 354.0352 539.7032 339.6992 560.9 339.6992 Z" fill="white"/>
+        <path d="M 560.9 339.6992 L 740.1 339.6992 C 761.2968 339.6992 778.5 354.0352 778.5 371.6992 C 778.5 389.3632 761.2968 403.6992 740.1 403.6992 L 560.9 403.6992 C 539.7032 403.6992 522.5 389.3632 522.5 371.6992 C 522.5 354.0352 539.7032 339.6992 560.9 339.6992 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(553.1 352.6992)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="29.970314" y="15">Enterprise Web </tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="15.521095" y="34">Development: Java</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <title>Squashed Rectangle</title>
+        <path d="M 207.4 450.6992 L 386.6 450.6992 C 407.7968 450.6992 425 465.0352 425 482.6992 C 425 500.3632 407.7968 514.6992 386.6 514.6992 L 207.4 514.6992 C 186.2032 514.6992 169 500.3632 169 482.6992 C 169 465.0352 186.2032 450.6992 207.4 450.6992 Z" fill="#003776"/>
+        <path d="M 207.4 450.6992 L 386.6 450.6992 C 407.7968 450.6992 425 465.0352 425 482.6992 C 425 500.3632 407.7968 514.6992 386.6 514.6992 L 207.4 514.6992 C 186.2032 514.6992 169 500.3632 169 482.6992 C 169 465.0352 186.2032 450.6992 207.4 450.6992 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(199.6 473.1992)" fill="white">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="white" x="39.603127" y="15">Web Services</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 560.9 230.69922 L 740.1 230.69922 C 761.2968 230.69922 778.5 245.03522 778.5 262.69922 C 778.5 280.36322 761.2968 294.69922 740.1 294.69922 L 560.9 294.69922 C 539.7032 294.69922 522.5 280.36322 522.5 262.69922 C 522.5 245.03522 539.7032 230.69922 560.9 230.69922 Z" fill="white"/>
+        <path d="M 560.9 230.69922 L 740.1 230.69922 C 761.2968 230.69922 778.5 245.03522 778.5 262.69922 C 778.5 280.36322 761.2968 294.69922 740.1 294.69922 L 560.9 294.69922 C 539.7032 294.69922 522.5 280.36322 522.5 262.69922 C 522.5 245.03522 539.7032 230.69922 560.9 230.69922 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(553.1 243.69922)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="15.521095" y="15">Advanced Software </tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="29.970314" y="34">Development II</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <path d="M 560.9 450.6992 L 740.1 450.6992 C 761.2968 450.6992 778.5 465.0352 778.5 482.6992 C 778.5 500.3632 761.2968 514.6992 740.1 514.6992 L 560.9 514.6992 C 539.7032 514.6992 522.5 500.3632 522.5 482.6992 C 522.5 465.0352 539.7032 450.6992 560.9 450.6992 Z" fill="white"/>
+        <path d="M 560.9 450.6992 L 740.1 450.6992 C 761.2968 450.6992 778.5 465.0352 778.5 482.6992 C 778.5 500.3632 761.2968 514.6992 740.1 514.6992 L 560.9 514.6992 C 539.7032 514.6992 522.5 500.3632 522.5 482.6992 C 522.5 465.0352 539.7032 450.6992 560.9 450.6992 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(553.1 463.6992)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="1.0718765" y="15">Software Development </tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="49.23594" y="34">Project II</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <title>Squashed Rectangle</title>
+        <path d="M 207.4 340.6992 L 386.6 340.6992 C 407.7968 340.6992 425 355.0352 425 372.6992 C 425 390.3632 407.7968 404.6992 386.6 404.6992 L 207.4 404.6992 C 186.2032 404.6992 169 390.3632 169 372.6992 C 169 355.0352 186.2032 340.6992 207.4 340.6992 Z" fill="white"/>
+        <path d="M 207.4 340.6992 L 386.6 340.6992 C 407.7968 340.6992 425 355.0352 425 372.6992 C 425 390.3632 407.7968 404.6992 386.6 404.6992 L 207.4 404.6992 C 186.2032 404.6992 169 390.3632 169 372.6992 C 169 355.0352 186.2032 340.6992 207.4 340.6992 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(199.6 353.6992)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="34.78672" y="15">Front-end Web </tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="44.419533" y="34">Development</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <path d="M 207.4 231.6992 L 386.6 231.6992 C 407.7968 231.6992 425 246.0352 425 263.6992 C 425 281.3632 407.7968 295.6992 386.6 295.6992 L 207.4 295.6992 C 186.2032 295.6992 169 281.3632 169 263.6992 C 169 246.0352 186.2032 231.6992 207.4 231.6992 Z" fill="white"/>
+        <path d="M 207.4 231.6992 L 386.6 231.6992 C 407.7968 231.6992 425 246.0352 425 263.6992 C 425 281.3632 407.7968 295.6992 386.6 295.6992 L 207.4 295.6992 C 186.2032 295.6992 169 281.3632 169 263.6992 C 169 246.0352 186.2032 231.6992 207.4 231.6992 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(199.6 244.6992)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="15.521095" y="15">Advanced Software </tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="34.78672" y="34">Development I</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
