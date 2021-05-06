@@ -14,16 +14,16 @@ const SectionHider =
 				).get('presentation');
 
 				console.log(`in presentation mode ${inPresentationMode}`);
-				if (inPresentationMode === 'true') {
+				if (inPresentationMode === 'false') {
 					Array.prototype.forEach.call(
-						document.querySelectorAll('[nopres]'),
+						document.querySelectorAll('[onlypres]'),
 						function (node) {
 							node.parentNode.removeChild(node);
 						}
 					);
 				} else {
 					Array.prototype.forEach.call(
-						document.querySelectorAll('[onlypres]'),
+						document.querySelectorAll('[nopres]'),
 						function (node) {
 							node.parentNode.removeChild(node);
 						}
